@@ -1,15 +1,11 @@
-# Daily Focus Board
+# Daily Focus
 
-A simple task tracker built with HTML, CSS, and JavaScript.
+A simple motivational webpage that displays a focus message and changes it with one click.
 
 ## Features
-- Add tasks
-- Mark tasks as done
-- Delete tasks
-- Saves data in localStorage
+- Clean responsive design
+- Random motivational messages
+- One-file project
 
 ## How to run
 Open `index.html` in your browser.
-
-## Screenshot
-Add your own screenshot here after running the app.
